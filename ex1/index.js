@@ -1,6 +1,6 @@
 const arr = [1, 2, 3];
 
-arr.forEach(alert);
+// arr.forEach(alert);
 
 var userId = 1;
 var userName = 'Cha';
@@ -13,3 +13,7 @@ var users = [
 ]
 
 var result = 10 + 20;
+
+console.log(score);
+
+var score = 80;
